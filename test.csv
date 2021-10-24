@@ -1,0 +1,2159 @@
+,Country,Rate
+0,Afghanistan,1.1706389632306
+1,Albania,0.6695805398399808
+2,Algeria,0.46244008878467885
+3,Andorra,0.05461026848090748
+4,Angola,0.5157775881738689
+5,Antigua and Barbuda,3.9524600016993263
+6,Argentina,0.8147921095694907
+7,Armenia,1.2058938184333068
+8,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+9,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+10,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+11,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+12,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+13,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+14,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+15,Australia,"Country/Region
+Australia    0.000000
+Australia    0.071642
+Australia         NaN
+Australia    0.630092
+Australia    0.000000
+Australia    0.000000
+Australia    1.363699
+Australia    0.000000
+dtype: float64"
+16,Austria,0.3280529501685734
+17,Azerbaijan,1.1785795524024865
+18,Bahamas,0.33790545235321945
+19,Bahrain,1.4367847783447112
+20,Bangladesh,0.8957485201693294
+21,Barbados,0.15373988835075036
+22,Belarus,0.5893628815678248
+23,Belgium,0.18283022801869261
+24,Belize,0.7729260341044997
+25,Benin,0.5296784747063533
+26,Bolivia,1.0676830752063289
+27,Bosnia and Herzegovina,1.4990704064250922
+28,Botswana,0.4492342991676162
+29,Brazil,0.6696339699210763
+30,Brunei,0.21272628992730375
+31,Bulgaria,1.023765195670728
+32,Burkina Faso,0.49082167738166665
+33,Burma,2.0137078365923866
+34,Cabo Verde,0.8015051991926097
+35,Cameroon,0.6931050511460817
+36,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+37,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+38,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+39,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+40,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+41,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+42,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+43,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+44,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+45,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+46,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+47,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+48,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+49,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+50,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+51,Canada,"Country/Region
+Canada    0.857792
+Canada    0.153939
+Canada         NaN
+Canada         NaN
+Canada    1.228970
+Canada    1.179022
+Canada    0.734119
+Canada         inf
+Canada    0.058040
+Canada         NaN
+Canada    0.922714
+Canada    0.000000
+Canada    0.227536
+Canada         NaN
+Canada    0.389483
+Canada         inf
+dtype: float64"
+52,Central African Republic,0.7256412468955898
+53,Chad,0.6478841436282867
+54,Chile,1.1292835793932317
+55,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+56,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+57,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+58,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+59,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+60,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+61,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+62,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+63,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+64,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+65,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+66,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+67,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+68,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+69,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+70,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+71,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+72,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+73,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+74,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+75,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+76,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+77,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+78,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+79,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+80,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+81,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+82,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+83,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+84,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+85,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+86,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+87,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+88,China,"Country/Region
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.007638
+China    0.000000
+China    0.000000
+China    1.078704
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.825974
+China    0.000000
+China         NaN
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+China         NaN
+China    0.000000
+China    0.000000
+China         NaN
+China         NaN
+China    0.000000
+China    0.000000
+China    0.000000
+dtype: float64"
+89,Colombia,0.7862774813272171
+90,Comoros,3.7485170766890135
+91,Congo (Brazzaville),0.362454434647432
+92,Congo (Kinshasa),0.5702303690992861
+93,Costa Rica,1.0687515305675326
+94,Cote d'Ivoire,1.6609868848895502
+95,Croatia,0.68847404580372
+96,Cuba,0.29964162783862663
+97,Cyprus,0.8332727328210147
+98,Czechia,0.7576196129046113
+99,Denmark,"Country/Region
+Denmark         inf
+Denmark         NaN
+Denmark    0.190461
+dtype: float64"
+100,Denmark,"Country/Region
+Denmark         inf
+Denmark         NaN
+Denmark    0.190461
+dtype: float64"
+101,Denmark,"Country/Region
+Denmark         inf
+Denmark         NaN
+Denmark    0.190461
+dtype: float64"
+102,Diamond Princess,
+103,Djibouti,0.984772315041676
+104,Dominican Republic,0.3954061277061974
+105,Ecuador,0.8121121845106113
+106,Egypt,1.0243902534143083
+107,El Salvador,0.7511517111333742
+108,Equatorial Guinea,0.3764473017293389
+109,Estonia,0.163209816192646
+110,Eswatini,1.4366556827656454
+111,Ethiopia,1.192202849872274
+112,Finland,0.1514183691916705
+113,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+114,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+115,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+116,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+117,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+118,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+119,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+120,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+121,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+122,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+123,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+124,France,"Country/Region
+France    0.484376
+France         inf
+France    0.339269
+France    0.183416
+France    0.756013
+France         inf
+France    0.250765
+France         inf
+France         NaN
+France    1.255620
+France         NaN
+France    0.109041
+dtype: float64"
+125,Gabon,0.4633421330228517
+126,Gambia,0.9932513548793428
+127,Georgia,1.260361163431347
+128,Germany,0.6255824409978653
+129,Ghana,0.6670422475997589
+130,Greece,0.356219365545075
+131,Guatemala,0.9272580634515869
+132,Guinea,2.9262721070838777
+133,Guinea-Bissau,1.0950179629785457
+134,Guyana,0.3459201936464164
+135,Haiti,0.4733019549331987
+136,Honduras,0.49033167319641247
+137,Hungary,0.29381228094865736
+138,Iceland,1.0229703353379234
+139,India,0.537648737235834
+140,Indonesia,0.5954881765088959
+141,Iran,0.3643422550405871
+142,Iraq,0.2393024819895029
+143,Ireland,0.10158120377878999
+144,Israel,1.0015803986929621
+145,Italy,0.18951359907026255
+146,Jamaica,2.337979713772776
+147,Japan,0.3195889221323222
+148,Jordan,1.1316602030475535
+149,Kazakhstan,2.8724973600192962
+150,Kenya,0.9081231282903464
+151,Kiribati,
+152,"Korea, South",0.3091355227776014
+153,Kosovo,0.5400714697404545
+154,Kuwait,1.1785644921927
+155,Kyrgyzstan,41.63921864921755
+156,Latvia,0.3896393568966553
+157,Lebanon,0.7996725267594891
+158,Lesotho,2.6616164722066546
+159,Liberia,0.5800722724381838
+160,Libya,0.45729124539583954
+161,Liechtenstein,1.0664054850412998
+162,Lithuania,0.473182476123733
+163,Luxembourg,0.29068921231091627
+164,MS Zaandam,
+165,Madagascar,3.8595461167977763
+166,Malawi,1.1164774237830233
+167,Malaysia,0.5428871306376405
+168,Maldives,0.6689025766243284
+169,Mali,0.9521163303434627
+170,Malta,0.6789069227091611
+171,Marshall Islands,
+172,Mauritania,0.6644304500917977
+173,Mauritius,0.5260576797636923
+174,Mexico,0.8615419577312824
+175,Micronesia,
+176,Moldova,1.0338337505286594
+177,Monaco,2.2533963996835125
+178,Montenegro,0.7456559705341674
+179,Morocco,0.7448969394500964
+180,Mozambique,2.374787164143131
+181,Namibia,2.955264071356015
+182,Nepal,6.032865124363798
+183,Netherlands,"Country/Region
+Netherlands    0.646711
+Netherlands         inf
+Netherlands         inf
+Netherlands    0.160257
+Netherlands    0.089919
+dtype: float64"
+184,Netherlands,"Country/Region
+Netherlands    0.646711
+Netherlands         inf
+Netherlands         inf
+Netherlands    0.160257
+Netherlands    0.089919
+dtype: float64"
+185,Netherlands,"Country/Region
+Netherlands    0.646711
+Netherlands         inf
+Netherlands         inf
+Netherlands    0.160257
+Netherlands    0.089919
+dtype: float64"
+186,Netherlands,"Country/Region
+Netherlands    0.646711
+Netherlands         inf
+Netherlands         inf
+Netherlands    0.160257
+Netherlands    0.089919
+dtype: float64"
+187,Netherlands,"Country/Region
+Netherlands    0.646711
+Netherlands         inf
+Netherlands         inf
+Netherlands    0.160257
+Netherlands    0.089919
+dtype: float64"
+188,New Zealand,"Country/Region
+New Zealand         NaN
+New Zealand    0.717041
+dtype: float64"
+189,New Zealand,"Country/Region
+New Zealand         NaN
+New Zealand    0.717041
+dtype: float64"
+190,Nicaragua,0.11695120152478418
+191,Niger,0.26289720365745894
+192,Nigeria,0.565797949649393
+193,North Macedonia,1.7701807313565554
+194,Norway,0.11293788812203151
+195,Oman,1.6708973265349334
+196,Pakistan,1.1261350505362306
+197,Palau,
+198,Panama,0.3680898238095201
+199,Papua New Guinea,5.33770551608194
+200,Paraguay,2.565584205466515
+201,Peru,0.42828586076466796
+202,Philippines,0.4287114986154173
+203,Poland,1.3613013589640768
+204,Portugal,0.492348399562664
+205,Qatar,1.5596623356224781
+206,Romania,3.6214955404449563
+207,Russia,2.0133124453416427
+208,Rwanda,2.7713059028432236
+209,Samoa,
+210,San Marino,0.2110313672262786
+211,Sao Tome and Principe,0.17807518973668177
+212,Saudi Arabia,2.361684195264428
+213,Senegal,1.7861538739346026
+214,Serbia,0.6852887007395293
+215,Sierra Leone,0.3115566790168709
+216,Singapore,3.8271541611871833
+217,Slovakia,3.4460372616815755
+218,Slovenia,0.1860439243787037
+219,Solomon Islands,
+220,Somalia,2.2221842277702812
+221,South Africa,1.887543859194736
+222,South Sudan,1.350074477155773
+223,Spain,0.1320204097929508
+224,Sri Lanka,1.2483502553525028
+225,Sudan,1.8010405648337773
+226,Summer Olympics 2020,
+227,Suriname,1.7036349378136266
+228,Sweden,0.22357235036231918
+229,Switzerland,0.11272105462300612
+230,Syria,0.9777205527214516
+231,Taiwan*,3.7382147204083345
+232,Tajikistan,0.9171375251335468
+233,Tanzania,1.503333293449262
+234,Thailand,0.25490406154428463
+235,Togo,0.5008792701997998
+236,Trinidad and Tobago,0.5432137287513267
+237,Tunisia,0.96506288128583
+238,Turkey,0.7625775578142425
+239,US,0.444773528316878
+240,Uganda,3.7191393768885534
+241,Ukraine,0.9866133058693012
+242,United Arab Emirates,0.4977094235728416
+243,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+244,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+245,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+246,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+247,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+248,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+249,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+250,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+251,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+252,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+253,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+254,United Kingdom,"Country/Region
+United Kingdom         NaN
+United Kingdom    0.204083
+United Kingdom         inf
+United Kingdom         inf
+United Kingdom    0.159821
+United Kingdom         NaN
+United Kingdom         inf
+United Kingdom    0.034892
+United Kingdom         NaN
+United Kingdom    0.000000
+United Kingdom    2.047902
+United Kingdom    0.101128
+dtype: float64"
+255,Uruguay,0.2415190193526869
+256,Uzbekistan,0.845071393374304
+257,Vanuatu,
+258,Venezuela,0.6572496836501039
+259,Vietnam,0.16355953264226347
+260,West Bank and Gaza,2.382022236757601
+261,Yemen,0.6153497892054604
+262,Zambia,0.4091003149872514
+263,Zimbabwe,1.6464441265095047
